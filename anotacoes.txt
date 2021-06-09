@@ -1,0 +1,6 @@
+
+text-center - text- texto centralizado
+class="row" == criando uma linha que tem 12 colunas
+rem - usa o tamanho padrão da fonte do elemento root(html) -  fonte-size: 16px;
+18rem = 288px
+img-thumbnail - imagem com borda 
